@@ -6,6 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+//Okey
+This is booking.com [Live site](https://assignment11-travelling-site-subrota.netlify.app/).
+
+## Available content
+
+In this web you will be able to do several activities.such as:
+### you can see details of some luxurious hotels.
+### you can book a hotel.
+### you can see your ordered hotels.
+### you can also see all ordered hotels.
+### you can delete a hotel from your ordered list.
+### you can add a new hotel.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# tourism-or-delivery-website-client
