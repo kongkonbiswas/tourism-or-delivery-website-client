@@ -1,8 +1,8 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
 import '../../Header/Header.css'
-import bannerOne from '../../../images/beautiful-luxury-outdoor-swimming-pool-hotel-resort.jpg';
-import bannerTwo from '../../../images/tidy-hall-with-two-pictures-wall.jpg'
+import bannerOne from '../../../images/photo-1576487248805-cf45f6bcc67f.jpg';
+import bannerTwo from '../../../images/photo-1519922639192-e73293ca430e.jpg'
 
 const TopBanner = () => {
     return (
@@ -15,8 +15,8 @@ const TopBanner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>A Five star hotel</h3>
-                        <p>And we like to keep it that way.</p>
+                        <h3>Whatever You Go</h3>
+                        <p>We always stand with you.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -27,8 +27,8 @@ const TopBanner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Double Room</h3>
-                        <p>$98.45 per night on this winter.</p>
+                        <h3>We Made The World</h3>
+                        <p>More sweetable for every traveller.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>

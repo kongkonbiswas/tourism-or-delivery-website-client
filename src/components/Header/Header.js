@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Form, Nav, Navbar } from 'react-bootstrap';
 import './Header.css'
-import logo from '../../images/logo.jpg'
 import { useHistory } from 'react-router';
 import { Link } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
@@ -25,7 +24,6 @@ const Header = () => {
             <Navbar className='nav-color' variant='dark' fixed='top' expand="lg">
                 <Container fluid>
                     <Navbar.Brand href="/home" >Resort Booking
-                    <img className='header-logo-size' src={logo} alt="" />
                     </Navbar.Brand>
                     
                     <Navbar.Toggle aria-controls="navbarScroll" />

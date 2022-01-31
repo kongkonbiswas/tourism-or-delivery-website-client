@@ -1,6 +1,6 @@
 import React from 'react';
 import '../Header/Header.css'
-import logo1 from '../../images/23534.jpg'
+import logo1 from '../../images/photo-1571079300578-14d80062e712.jpg'
 import logo2 from '../../images/23535.jpg'
 import { Col, Row } from 'react-bootstrap';
 import useAuth from '../../hooks/useAuth';
